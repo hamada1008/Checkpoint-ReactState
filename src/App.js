@@ -10,7 +10,7 @@ const styyle = {
   borderRadius: '15px',
   boxShadow: '5px 5px 10px 0px black',
   height:'fit-content',
-  marginTop :'150px'}
+  marginTop :'180px'}
 
   
 
